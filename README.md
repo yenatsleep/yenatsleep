@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yenatsleep
+- 👋 Hi, I’m @yen
 - 👀 I’m interested in traveling, coding, and FOOD!
 - 🌱 I’m currently learning about electrical circuits and trying different coding languages.
 - 💞️ I’m looking to collaborate on different coding projects. As my skills are limited it would be great to work on a project to expand my knowledge!
